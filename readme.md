@@ -1,4 +1,6 @@
 # python DesignPattern 
 python design pattern, inspired by 
 > https://github.com/faif/python-patterns
-* [DecoratorPattern](src/Decorator.py)
+* [SingletonPattern](src/SingletonPattern.py)
+* [CommandPattern](src/CommandPattern.py)
+
