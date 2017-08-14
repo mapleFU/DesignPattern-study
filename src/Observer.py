@@ -88,3 +88,9 @@ def main():
 if __name__ == '__main__':
     main()
 
+
+# OUTPUT:
+# 全同济首家澳门赌场开业了！美丽学长在线发牌～
+# [MMX]: 玩家FXW加入了！
+# [FXW]: 玩家MMX输光了～
+# [FXW]: 玩家LTY加入了！
