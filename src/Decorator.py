@@ -52,6 +52,7 @@ if __name__ == '__main__':
     print("before:", simple_hello.render())
     print("after:", special_hello.render())
 
+
 ### OUTPUT ###
 # before: hello, world!
 # after: <i><b>hello, world!</b></i>

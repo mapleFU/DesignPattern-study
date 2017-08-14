@@ -6,7 +6,7 @@ class StrategyExample:
     def __init__(self, func=None):
         self.name = 'Strategy Example 0'
         if func is not None:
-            # 切换自身的EXCUTE函数
+            # 切换自身的EXCUTE函数, 用types.MethodType改变
             self.execute = types.MethodType(func, self)
 
     def execute(self):
